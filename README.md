@@ -1,6 +1,6 @@
-<p align="center">
+<p="center">
   <img width="180" src="./public/ChatGPT.png" alt="ChatGPT">
-  <p align="center">ChatGPT Desktop Application (Available on Mac, Windows, and Linux)</p>
+  <p ="center">ChatGPT Desktop Application (Available on Mac, Windows, and Linux)</p>
 </p>
 
 [![ChatGPT downloads](https://img.shields.io/github/downloads/lencx/ChatGPT/total.svg?style=flat-square)](https://github.com/lencx/ChatGPT/releases)
